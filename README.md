@@ -1,9 +1,6 @@
 # ic-01
 ic-01 - Welcome to GitHub 
 
-
-My github file: https://shepner23.github.io/
-
 ## Purpose
 
 The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. You will need to understand each of these in order to complete your assignments for this class. 
@@ -16,13 +13,15 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. Clone this repo so you have a local copy. Use ssh and git clone.
 
-1. Locally, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. Save.  
+1. 
+
+, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. Save.  
 
 1. Push your change to GitHub. 
 
 1. In the browser, create a GitHub Page for your GitHub repo. 
 
-1. Locally, edit this file to add the link to your GitHub Page **HERE**. Save.  
+1. Locally, edit this file to add the link to your GitHub Page **https://shepner23.github.io/**. Save.  
 
 1. Push your change to GitHub. If you open GitHub in the browser, you will see your updated version of this file.    
 
